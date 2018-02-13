@@ -1,0 +1,9 @@
+{
+  "name": "streamsync-server",
+  "version": "1.0.0",
+  "description": "Backend server for the StreamSync Extension",
+  "main": "app.js",
+  "repository": "https://github.com/streamsync/server",
+  "author": "Pascal Berlin <relictgriefing@gmail.com>",
+  "license": "MIT"
+}
