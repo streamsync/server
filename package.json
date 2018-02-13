@@ -5,5 +5,8 @@
   "main": "app.js",
   "repository": "https://github.com/streamsync/server",
   "author": "Pascal Berlin <relictgriefing@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^4.0.0"
+  }
 }
